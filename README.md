@@ -85,5 +85,9 @@
 * In App.js
 * call loadContacts, loadVehicles,loadComments,loadProducts in componentDidMount
 
+### Solution
+* If everything is working, information from db.json should show up under the headings on the left side
+* When you click the create button the newly created data should show up on the left side
+
 
 
