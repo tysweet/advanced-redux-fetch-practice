@@ -1,6 +1,6 @@
 ### Setup
 * Fork, Clone, yarn install, yarn start
-* Do Not use the instructions as your guide for what code to type, use the reference guide project (address book)
+* Do Not use the instructions as your guide for what code to type, use the checklist
 
 ### Use local api
 * http://localhost:4001/products
