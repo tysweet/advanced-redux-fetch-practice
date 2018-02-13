@@ -1,6 +1,6 @@
 ### Setup
 * Fork, Clone, yarn install, yarn start
-* Use notes to remember what to code!!!!!!!!!!!!!
+
 
 ### Use local api
 * http://localhost:4001/products
